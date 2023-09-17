@@ -9,12 +9,8 @@ package travewave;
  * @author Dell
  */
 public class TraveWave {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+      System.out.print("kjhdgfsjjkfgdsjadfhsagjhsfgdhasgjhk");
     }
     
 }
