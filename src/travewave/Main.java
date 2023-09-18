@@ -8,6 +8,7 @@ package travewave;
  *
  * @author Dell
  */
+<<<<<<< HEAD:src/travewave/Main.java
 public class Main {
 
     /**
@@ -16,6 +17,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("helloooooooo");
             
+=======
+public class TraveWave {
+    public static void main(String[] args) {
+      System.out.print("kjhdgfsjjkfgdsjadfhsagjhsfgdhasgjhk");
+>>>>>>> 90d16510e8ae76c998d0a48642782c8218f79f30:src/travewave/TraveWave.java
     }
     
 }
